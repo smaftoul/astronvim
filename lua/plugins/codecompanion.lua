@@ -1,0 +1,5 @@
+return {
+  {
+    "olimorris/codecompanion.nvim",
+  },
+}
