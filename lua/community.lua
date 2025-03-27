@@ -15,6 +15,7 @@ return {
   { import = "astrocommunity.pack.python-ruff" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.completion.copilot-lua-cmp" },
+  { import = "astrocommunity.completion.avante-nvim" },
   { import = "astrocommunity.git.neogit" },
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
 }
